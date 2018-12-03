@@ -1,0 +1,7 @@
+dist/
+.git
+.vs
+.idea
+__pycache__
+build/
+mndc.spec
